@@ -1,0 +1,1 @@
+export type CharcterSides = 'down' | 'left' | 'right' | 'up'; 
